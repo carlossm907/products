@@ -1,143 +1,300 @@
 [
-  {
-    "id": 1,
-    "name": "Nike React Infinity Run Flyknit",
-    "brand": "NIKE",
-    "gender": "MEN",
-    "category": "RUNNING",
-    "price": 160,
-    "sizes_available": [
-      { "size": 8,   "quantity": 4 },
-      { "size": 8.5, "quantity": 1 },
-      { "size": 9,   "quantity": 2 },
-      { "size": 9.5, "quantity": 3 },
-      { "size": 10,  "quantity": 3 },
-      { "size": 10.5,"quantity": 5 }
-    ],
-    "image": "https://www.fitrun.com/cdn/shop/files/DH5392-007-PHRSRH001-1500.png",
-    "rating": 4.7,
-    "review_count": 225,
-    "description": "Ligero, transpirable y diseñado para ofrecer máxima eficiencia en cada pisada.",
-    "available_colors": ["Gris", "Rojo"]
-  },
-  {
-    "id": 2,
-    "name": "Nike React Miler",
-    "brand": "NIKE",
-    "gender": "MEN",
-    "category": "RUNNING",
-    "price": 130,
-    "sizes_available": [
-      { "size": 8,   "quantity": 2 },
-      { "size": 8.5, "quantity": 4 },
-      { "size": 9,   "quantity": 2 },
-      { "size": 9.5, "quantity": 1 },
-      { "size": 10,  "quantity": 4 }
-    ]
-  },
-  {
-    "id": 3,
-    "name": "Nike Air Zoom Pegasus 37",
-    "brand": "NIKE",
-    "gender": "WOMEN",
-    "category": "RUNNING",
-    "price": 120,
-    "sizes_available": [
-      { "size": 8,   "quantity": 2 },
-      { "size": 8.5, "quantity": 2 },
-      { "size": 9,   "quantity": 4 },
-      { "size": 9.5, "quantity": 2 },
-      { "size": 10,  "quantity": 1 },
-      { "size": 10.5,"quantity": 5 }
-    ],
-    "image": "https://d2cva83hdk3bwc.cloudfront.net/nike-air-zoom-pegasus-37-white-cyber-1.jpg",
-    "rating": 3.7,
-    "review_count": 450,
-    "description": "Diseño moderno y cómodo, ideal para el día a día o entrenamientos livianos.",
-    "available_colors": ["Blanco", "Beige", "Rosado", "Gris", "Negro"]
-  },
-  {
-    "id": 4,
-    "name": "Nike Joyride Run Flyknit",
-    "brand": "NIKE",
-    "gender": "WOMEN",
-    "category": "RUNNING",
-    "price": 180,
-    "sizes_available": [
-      { "size": 8,   "quantity": 5 },
-      { "size": 8.5, "quantity": 5 },
-      { "size": 9,   "quantity": 4 },
-      { "size": 9.5, "quantity": 3 },
-      { "size": 10,  "quantity": 4 },
-      { "size": 10.5,"quantity": 2 }
-    ],
-    "image": "https://images.novelship.com/product/_women__nike_joyride_run_flyknit__cinnabar__aq2731_0_58551.png",
-    "rating": 4.6,
-    "review_count": 399,
-    "description": "Ligero, transpirable y diseñado para ofrecer máxima eficiencia en cada pisada.",
-    "available_colors": ["Gris", "Negro", "Azul", "Rosado"]
-  },
-  {
-    "id": 5,
-    "name": "Nike Mercurial Vapor 13 Elite FG",
-    "brand": "NIKE",
-    "gender": "WOMEN",
-    "category": "FOOTBALL",
-    "price": 250,
-    "sizes_available": [
-      { "size": 8,   "quantity": 4 },
-      { "size": 8.5, "quantity": 4 },
-      { "size": 9,   "quantity": 5 },
-      { "size": 9.5, "quantity": 5 },
-      { "size": 10,  "quantity": 5 },
-      { "size": 10.5,"quantity": 2 }
-    ],
-    "image": "https://ftblboots.com/cdn/shop/files/IMG_7647.png",
-    "rating": 4.9,
-    "review_count": 318,
-    "description": "Zapatilla deportiva con excelente amortiguación y ajuste perfecto para todo tipo de actividad.",
-    "available_colors": ["Rojo", "Negro"]
-  },
-  {
-    "id": 6,
-    "name": "Nike Phantom Vision Elite Dynamic Fit FG",
-    "brand": "NIKE",
-    "gender": "WOMEN",
-    "category": "FOOTBALL",
-    "price": 150,
-    "sizes_available": [
-      { "size": 8,   "quantity": 1 },
-      { "size": 8.5, "quantity": 4 },
-      { "size": 9,   "quantity": 3 },
-      { "size": 9.5, "quantity": 4 },
-      { "size": 10,  "quantity": 1 },
-      { "size": 10.5,"quantity": 2 }
-    ],
-    "image": "https://soccerpost.com/cdn/shop/files/AURORA_DD9546-600_PHSRH000-2000_clipped_rev_1.png",
-    "rating": 4.0,
-    "review_count": 379,
-    "description": "Zapatilla deportiva con excelente amortiguación y ajuste perfecto para todo tipo de actividad.",
-    "available_colors": ["Beige", "Verde", "Amarillo", "Rojo"]
-  },
-  {
-    "id": 7,
-    "name": "Nike Phantom Venom Academy FG",
-    "brand": "NIKE",
-    "gender": "WOMEN",
-    "category": "FOOTBALL",
-    "price": 80,
-    "sizes_available": [
-      { "size": 8,   "quantity": 5 },
-      { "size": 8.5, "quantity": 1 },
-      { "size": 9,   "quantity": 2 },
-      { "size": 9.5, "quantity": 2 },
-      { "size": 10,  "quantity": 5 },
-      { "size": 10.5,"quantity": 4 }
-    ],
-    "image": "https://midwaysports.com/cdn/shop/files/NikeMen_sPhantomVenomAcademyFG_6.png",
-    "rating": 4.0,
-    "review_count": 455,
-    "description": "Estilo icónico con detalles premium, perfecto para looks urbanos.",
-    "available_colors": ["Gris", "Azul"]
-  }
+    {
+        "id": 1,
+        "name": "Nike React Infinity Run Flyknit",
+        "brand": "NIKE",
+        "gender": "MEN",
+        "category": "RUNNING",
+        "price": 160,
+        "sizes_available": [
+            {
+                "size": 8,
+                "quantity": 4
+            },
+            {
+                "size": 8.5,
+                "quantity": 1
+            },
+            {
+                "size": 9,
+                "quantity": 2
+            },
+            {
+                "size": 9.5,
+                "quantity": 3
+            },
+            {
+                "size": 10,
+                "quantity": 3
+            },
+            {
+                "size": 10.5,
+                "quantity": 5
+            }
+        ],
+        "image": "https://www.fit2run.com/cdn/shop/files/DH5392-007-PHSRH001-1500.png",
+        "rating": 4.7,
+        "review_count": 225,
+        "description": "Ligero, transpirable y diseñado para ofrecer máxima eficiencia en cada pisada.",
+        "available_colors": [
+            "Gris",
+            "Rojo"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Nike React Miler",
+        "brand": "NIKE",
+        "gender": "MEN",
+        "category": "RUNNING",
+        "price": 130,
+        "sizes_available": [
+            {
+                "size": 8,
+                "quantity": 2
+            },
+            {
+                "size": 8.5,
+                "quantity": 4
+            },
+            {
+                "size": 9,
+                "quantity": 2
+            },
+            {
+                "size": 9.5,
+                "quantity": 1
+            },
+            {
+                "size": 10,
+                "quantity": 4
+            }
+        ],
+        "image": "https://i.ebayimg.com/images/g/JjYAAOSwljdjobKy/s-l640.png",
+        "rating": 3.6,
+        "review_count": 355,
+        "description": "Zapatilla deportiva con excelente amortiguación y ajuste perfecto para todo tipo de actividad.",
+        "available_colors": [
+            "Blanco",
+            "Negro",
+            "Beige"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Nike Air Zoom Pegasus 37",
+        "brand": "NIKE",
+        "gender": "WOMEN",
+        "category": "RUNNING",
+        "price": 120,
+        "sizes_available": [
+            {
+                "size": 8,
+                "quantity": 2
+            },
+            {
+                "size": 8.5,
+                "quantity": 2
+            },
+            {
+                "size": 9,
+                "quantity": 4
+            },
+            {
+                "size": 9.5,
+                "quantity": 2
+            },
+            {
+                "size": 10,
+                "quantity": 1
+            },
+            {
+                "size": 10.5,
+                "quantity": 5
+            }
+        ],
+        "image": "https://d2cva83hdk3bwc.cloudfront.net/nike-air-zoom-pegasus-37-white-cyber-1.jpg",
+        "rating": 3.7,
+        "review_count": 450,
+        "description": "Diseño moderno y cómodo, ideal para el día a día o entrenamientos livianos.",
+        "available_colors": [
+            "Blanco",
+            "Beige",
+            "Rosado",
+            "Gris",
+            "Negro"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Nike Joyride Run Flyknit",
+        "brand": "NIKE",
+        "gender": "WOMEN",
+        "category": "RUNNING",
+        "price": 180,
+        "sizes_available": [
+            {
+                "size": 8,
+                "quantity": 5
+            },
+            {
+                "size": 8.5,
+                "quantity": 5
+            },
+            {
+                "size": 9,
+                "quantity": 4
+            },
+            {
+                "size": 9.5,
+                "quantity": 3
+            },
+            {
+                "size": 10,
+                "quantity": 4
+            },
+            {
+                "size": 10.5,
+                "quantity": 2
+            }
+        ],
+        "image": "https://images.novelship.com/product/_women__nike_joyride_run_flyknit__cinnabar__aq2731_0_58551.png",
+        "rating": 4.6,
+        "review_count": 399,
+        "description": "Ligero, transpirable y diseñado para ofrecer máxima eficiencia en cada pisada.",
+        "available_colors": [
+            "Gris",
+            "Negro",
+            "Azul",
+            "Rosado"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Nike Mercurial Vapor 13 Elite FG",
+        "brand": "NIKE",
+        "gender": "WOMEN",
+        "category": "FOOTBALL",
+        "price": 250,
+        "sizes_available": [
+            {
+                "size": 8,
+                "quantity": 4
+            },
+            {
+                "size": 8.5,
+                "quantity": 4
+            },
+            {
+                "size": 9,
+                "quantity": 5
+            },
+            {
+                "size": 9.5,
+                "quantity": 5
+            },
+            {
+                "size": 10,
+                "quantity": 5
+            },
+            {
+                "size": 10.5,
+                "quantity": 2
+            }
+        ],
+        "image": "https://ftblboots.com/cdn/shop/files/IMG_7647.png",
+        "rating": 4.9,
+        "review_count": 318,
+        "description": "Zapatilla deportiva con excelente amortiguación y ajuste perfecto para todo tipo de actividad.",
+        "available_colors": [
+            "Rojo",
+            "Negro"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Nike Phantom Vision Elite Dynamic Fit FG",
+        "brand": "NIKE",
+        "gender": "WOMEN",
+        "category": "FOOTBALL",
+        "price": 150,
+        "sizes_available": [
+            {
+                "size": 8,
+                "quantity": 1
+            },
+            {
+                "size": 8.5,
+                "quantity": 4
+            },
+            {
+                "size": 9,
+                "quantity": 3
+            },
+            {
+                "size": 9.5,
+                "quantity": 4
+            },
+            {
+                "size": 10,
+                "quantity": 1
+            },
+            {
+                "size": 10.5,
+                "quantity": 2
+            }
+        ],
+        "image": "https://soccerpost.com/cdn/shop/files/AURORA_DD9546-600_PHSRH000-2000_clipped_rev_1.png",
+        "rating": 4.0,
+        "review_count": 379,
+        "description": "Zapatilla deportiva con excelente amortiguación y ajuste perfecto para todo tipo de actividad.",
+        "available_colors": [
+            "Beige",
+            "Verde",
+            "Amarillo",
+            "Rojo"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Nike Phantom Venom Academy FG",
+        "brand": "NIKE",
+        "gender": "WOMEN",
+        "category": "FOOTBALL",
+        "price": 80,
+        "sizes_available": [
+            {
+                "size": 8,
+                "quantity": 5
+            },
+            {
+                "size": 8.5,
+                "quantity": 1
+            },
+            {
+                "size": 9,
+                "quantity": 2
+            },
+            {
+                "size": 9.5,
+                "quantity": 2
+            },
+            {
+                "size": 10,
+                "quantity": 5
+            },
+            {
+                "size": 10.5,
+                "quantity": 4
+            }
+        ],
+        "image": "https://midwaysports.com/cdn/shop/files/NikeMen_sPhantomVenomAcademyFG_6.png",
+        "rating": 4.0,
+        "review_count": 455,
+        "description": "Estilo icónico con detalles premium, perfecto para looks urbanos.",
+        "available_colors": [
+            "Gris",
+            "Azul"
+        ]
+    }
 ]
